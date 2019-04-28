@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23343" started-at="2019-04-28T02:14:55Z" finished-at="2019-04-28T02:15:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23343" started-at="2019-04-28T02:14:55Z" finished-at="2019-04-28T02:15:18Z">
+      <class name="com.assignment.TestCases.TS_03_Search_Functionality">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.assignment.TestCases.TS_03_Search_Functionality@1e88b3c]" name="beforeMethod" is-config="true" duration-ms="29" started-at="2019-04-28T07:44:55Z" finished-at="2019-04-28T07:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySearchItem(org.openqa.selenium.Platform, java.lang.String, java.lang.String)[pri:0, instance:com.assignment.TestCases.TS_03_Search_Functionality@1e88b3c]" name="verifySearchItem" duration-ms="22949" started-at="2019-04-28T07:44:55Z" data-provider="browserStackTestData" finished-at="2019-04-28T07:45:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MAC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[62.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchItem -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.assignment.TestCases.TS_03_Search_Functionality@1e88b3c]" name="afterMethod" is-config="true" duration-ms="266" started-at="2019-04-28T07:45:18Z" finished-at="2019-04-28T07:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.assignment.TestCases.TS_03_Search_Functionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
